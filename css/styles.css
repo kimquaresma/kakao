@@ -1,5 +1,5 @@
-@import "reset.css";
-@import "variables.css";
+@import "./reset.css";
+@import "./variables.css";
 
 /* Components */
 @import "../components/status-bar.css";
@@ -11,12 +11,12 @@
 @import "../components/alt-screen-header.css";
 
 /* Screens */
-@import "/screens/login.css";
-@import "/screens/friends.css";
-@import "/screens/find.css";
-@import "/screens/more.css";
-@import "/screens/settings.css";
-@import "/screens/chat.css";
+@import "../screens/login.css";
+@import "../screens/friends.css";
+@import "../screens/find.css";
+@import "../screens/more.css";
+@import "../screens/settings.css";
+@import "../screens/chat.css";
 
 body {
     color: #2e363e;
